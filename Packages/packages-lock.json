@@ -15,10 +15,11 @@
       "hash": "9bf614782015e0c71a226487b493560ebb4353ae"
     },
     "com.akbiggs.unitytimer": {
-      "version": "file:C:/Users/mroeu/Documents/unity/UnityTimer-1.1.0",
+      "version": "https://github.com/akbiggs/UnityTimer.git",
       "depth": 0,
-      "source": "local",
-      "dependencies": {}
+      "source": "git",
+      "dependencies": {},
+      "hash": "4554e279ae43277841948a98c97ed398a987fce3"
     },
     "com.luca3317.tmpeffects": {
       "version": "https://github.com/Luca3317/TMPEffects.git?path=/Package",
